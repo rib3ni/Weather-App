@@ -32,4 +32,10 @@ To run this project locally, follow these steps:
 
 3.Open the index.html file in your web browser.
 
+Usage
+
+1. Enter a city name in the search input.
+2. Click the search button or press Enter.
+3. View the displayed weather data for the selected city.
+
 
